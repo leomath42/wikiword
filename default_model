@@ -1,0 +1,8 @@
+[model]:Simple Model
+
+[fields]name:Question
+[fields]name:Answer
+	
+[templates]name:Card 1
+[templates]qfmt:<div style="font-size: 20px; background-color:pink";> {{Question}} </div>
+[templates]afmt:<div style="font-size: 20px; background-color:pink";> {{FrontSide}} <hr id="answer"> {{Answer}} </div>
