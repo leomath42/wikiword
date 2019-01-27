@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Developed by: Leonardo M. P. de Souza
-contact: leonardomatheus042@gmail.com
-"""
+Developed by: https://github.com/leomath42
+contact: 
 
 
 """
