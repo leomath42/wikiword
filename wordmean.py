@@ -4,7 +4,7 @@
 Developed by: https://github.com/leomath42
 contact: 
 
-
+"""
 """
 class manager:
 	data;
